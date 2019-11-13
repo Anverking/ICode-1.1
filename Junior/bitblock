@@ -1,0 +1,6 @@
+#ifndef ICODE_BITBLOCK
+#define ICODE_BITBLOCK
+
+#include "bitblock.h"
+
+#endif

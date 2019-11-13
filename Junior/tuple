@@ -1,0 +1,6 @@
+#ifndef ICODE_TUPLE
+#define ICODE_TUPLE
+
+#include "tuple.h"
+
+#endif

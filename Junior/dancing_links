@@ -1,0 +1,6 @@
+#ifndef ICODE_DANCING_LINKS
+#define ICODE_DANCING_LINKS
+
+#include "dancing_links.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_LINEAR_RANDOM
+#define ICODE_LINEAR_RANDOM
+
+#include "linear_random.h"
+
+#endif

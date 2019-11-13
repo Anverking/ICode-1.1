@@ -1,0 +1,6 @@
+#ifndef ICODE_LINEAR_ALGEBRA
+#define ICODE_LINEAR_ALGEBRA
+
+#include "linear_algebra.h"
+
+#endif

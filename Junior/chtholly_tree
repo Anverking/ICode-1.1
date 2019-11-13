@@ -1,0 +1,6 @@
+#ifndef ICODE_CHTHOLLY_TREE
+#define ICODE_CHTHOLLY_TREE
+
+#include "chtholly_tree.h"
+
+#endif 

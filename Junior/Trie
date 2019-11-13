@@ -1,0 +1,6 @@
+#ifndef ICODE_TRIE
+#define ICODE_TRIE
+
+#include "Trie.h"
+
+#endif

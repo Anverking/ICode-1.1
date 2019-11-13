@@ -1,0 +1,6 @@
+#ifndef ICODE_AUTO_PTR
+#define ICODE_AUTO_PTR
+
+#include "auto_ptr.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_THREAD_POOL
+#define ICODE_THREAD_POOL
+
+#include "thread_pool.h"
+
+#endif

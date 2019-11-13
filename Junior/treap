@@ -1,0 +1,6 @@
+#ifndef ICODE_TREAP
+#define ICODE_TREAP
+
+#include "treap.h"
+
+#endif

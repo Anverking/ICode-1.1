@@ -1,0 +1,6 @@
+#ifndef ICODE_LINK_CUT_TREE
+#define ICODE_LINK_CUT_TREE
+
+#include "link_cut_tree.h"
+
+#endif

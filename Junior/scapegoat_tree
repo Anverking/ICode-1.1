@@ -1,0 +1,6 @@
+#ifndef ICODE_SCAPEGOAT_TREE
+#define ICODE_SCAPEGOAT_TREE
+
+#include "scapegoat_tree.h"
+
+#endif

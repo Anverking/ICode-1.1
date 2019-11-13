@@ -1,0 +1,6 @@
+#ifndef ICODE_MEMORY_POOL
+#define ICODE_MEMORY_POOL
+
+#include "memory_pool.h"
+
+#endif

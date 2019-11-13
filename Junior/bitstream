@@ -1,0 +1,6 @@
+#ifndef ICODE_BITSTEAM
+#define ICODE_BITSTREAM
+
+#include "bistream.h"
+
+#endif

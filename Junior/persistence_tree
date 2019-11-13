@@ -1,0 +1,6 @@
+#ifndef ICODE_PERSISTENCE_TREE
+#define ICODE_PERSISTENCE_TREE
+
+#include "persistence_tree.h"
+
+#endif

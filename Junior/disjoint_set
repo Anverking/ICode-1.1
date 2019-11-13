@@ -1,0 +1,6 @@
+#ifndef ICODE_PARTITION
+#define ICODE_PARTITION
+
+#include "partition.h"
+
+#endif

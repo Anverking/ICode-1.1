@@ -1,0 +1,6 @@
+#ifndef ICODE_PAIRING_HEAP
+#define ICODE_PAIRING_HEAP
+
+#include "pairing_heap.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_LINEAR_BASE
+#define ICODE_LINEAR_BASE
+
+#include "linear_base.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_GAME_THEORY
+#define ICODE_GAME_THEORY
+
+#include "game_theory.h"
+
+#endif

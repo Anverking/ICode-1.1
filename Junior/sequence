@@ -1,0 +1,6 @@
+#ifndef ICODE_SEQUENCE
+#define ICODE_SEQUENCE
+
+#include "sequence.h"
+
+#endif

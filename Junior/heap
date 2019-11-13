@@ -1,0 +1,6 @@
+#ifndef ICODE_HEAP
+#define ICODE_HEAP
+
+#include "heap.h"
+
+#endif

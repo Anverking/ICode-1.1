@@ -1,0 +1,6 @@
+#ifndef ICODE_STATISTICS
+#define ICODE_STATISTICS
+
+#include "statistics.h"
+
+#endif

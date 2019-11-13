@@ -1,0 +1,6 @@
+#ifndef ICODE_POINTER_VECTOR
+#define ICODE_POINTER_VECTOR
+
+#include "pointer_vector.h"
+
+#endif

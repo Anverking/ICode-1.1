@@ -1,0 +1,6 @@
+#ifndef ICODE_PEAK
+#define ICODE_PEAK
+
+#include "peak.h"
+
+#endif

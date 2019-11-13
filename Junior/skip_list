@@ -1,0 +1,6 @@
+#ifndef ICODE_SKIP_LIST
+#define ICODE_SKIP_LIST
+
+#include "skip_list.h"
+
+#endif

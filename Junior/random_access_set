@@ -1,0 +1,6 @@
+#ifndef ICODE_RANDOM_ACCESS_SET
+#define ICODE_RANDOM_ACCESS_SET
+
+#include "random_access_set.h"
+
+#endif

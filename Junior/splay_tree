@@ -1,0 +1,6 @@
+#ifndef ICODE_SPLAY_TREE
+#define ICODE_SPLAY_TREE
+
+#include "splay_tree.h"
+
+#endif

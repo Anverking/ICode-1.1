@@ -1,0 +1,6 @@
+#ifndef ICODE_GROUP
+#define ICODE_GROUP
+
+#include "group.h"
+
+#endif

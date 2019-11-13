@@ -1,0 +1,6 @@
+#ifndef ICODE_LEFIST_TREE
+#define ICODE_LEFTIST_TREE
+
+#include "lefists_tree.h"
+
+#endif

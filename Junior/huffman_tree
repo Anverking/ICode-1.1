@@ -1,0 +1,6 @@
+#ifndef ICODE_HUFFMAN_TREE
+#define ICODE_HUFFMAN_TREE
+
+#include "huffman_tree.h"
+
+#endif

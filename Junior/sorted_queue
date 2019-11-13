@@ -1,0 +1,6 @@
+#ifndef ICODE_SORTED_QUEUE
+#define ICODE_SORTED_QUEUE
+
+#include "sorted_queue.h"
+
+#endif

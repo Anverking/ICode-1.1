@@ -1,0 +1,6 @@
+#ifndef ICODE_RMQ
+#define ICODE_RMQ
+
+#include "RMQ.h"
+
+#endif

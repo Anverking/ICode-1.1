@@ -1,0 +1,6 @@
+#ifndef ICODE_FFT
+#define ICODE_FFT
+
+#include "FFT.h"
+
+#endif
