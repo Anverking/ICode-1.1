@@ -1,0 +1,6 @@
+#ifndef ICODE_CHRONO_METER
+#define ICODE_CHRONO_METER
+
+#include "chrono_meter.h"
+
+#endif

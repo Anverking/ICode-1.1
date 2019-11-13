@@ -1,0 +1,6 @@
+#ifndef ICODE_FILE
+#define ICODE_FILE
+
+#include "File.h"
+
+#endif

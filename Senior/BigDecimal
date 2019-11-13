@@ -1,0 +1,6 @@
+#ifndef ICODE_BIGDECIMAL
+#define ICODE_BIGDECIMAL
+
+#include "BigDecimal.h"
+
+#endif

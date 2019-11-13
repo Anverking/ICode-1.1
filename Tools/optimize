@@ -1,0 +1,6 @@
+#ifndef ICODE_OPTIMIZE
+#define ICODE_OPTIMIZE
+
+#include "optimize.h"
+
+#endif

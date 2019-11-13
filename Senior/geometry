@@ -1,0 +1,6 @@
+#ifndef ICODE_GEOMETRY
+#define ICODE_GEOMETRY
+
+#include "geometry.h"
+
+#endif

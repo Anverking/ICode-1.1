@@ -1,0 +1,6 @@
+#ifndef ICODE_HASH_TABLE
+#define ICODE_HASH_TABLE
+
+#include "hash_table.h"
+
+#endif

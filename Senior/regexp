@@ -1,0 +1,6 @@
+#ifndef ICODE_REGEXP
+#define ICODE_REGEXP
+
+#include "regexp.h"
+
+#endif

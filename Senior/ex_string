@@ -1,0 +1,6 @@
+#ifndef ICODE_EX_STRING
+#define ICODE_EX_STRING
+
+#include "ex_string.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_MATHMETIC
+#define ICODE_MATHMETIC
+
+#include "mathmetic.h"
+
+#endif

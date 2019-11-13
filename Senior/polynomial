@@ -1,0 +1,6 @@
+#ifndef ICODE_POLYNOMIAL
+#define ICODE_POLYNOMIAL
+
+#include "polynomial.h"
+
+#endif

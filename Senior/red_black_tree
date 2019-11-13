@@ -1,0 +1,6 @@
+#ifndef ICODE_RED_BLACK_TREE
+#define ICODE_RED_BLACK_TREE
+
+#include "red_black_tree.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_BIGINTEGER
+#define ICODE_BIGINTEGER
+
+#include "BigInteger.h"
+
+#endif

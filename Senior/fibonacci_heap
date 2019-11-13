@@ -1,0 +1,6 @@
+#ifndef ICODE_FIBONACCI_HEAP
+#define ICODE_FIBONACCI_HEAP
+
+#include "fibonacci_heap.h"
+
+#endif

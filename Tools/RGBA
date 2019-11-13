@@ -1,0 +1,6 @@
+#ifndef ICODE_RGBA
+#define ICODE_RGBA
+
+#include "RGBA.h"
+
+#endif 

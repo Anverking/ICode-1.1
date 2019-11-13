@@ -1,0 +1,6 @@
+#ifndef ICODE_ILIBRARY
+#define ICODE_ILIBRARY
+
+#include "ilibrary.h"
+
+#endif

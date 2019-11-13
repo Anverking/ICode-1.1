@@ -1,0 +1,6 @@
+#ifndef ICODE_CHECKER
+#define ICODE_CHECKER
+
+#include "Checker.h"
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef ICODE_B_STAR
+#define ICODE_B_STAR
+
+#include "B_star.h"
+
+#endif

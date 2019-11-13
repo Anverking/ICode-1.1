@@ -1,0 +1,6 @@
+#ifndef ICODE_TIMER
+#define ICODE_TIMER
+
+#include "Timer.h"
+
+#endif
